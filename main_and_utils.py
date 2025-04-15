@@ -11,7 +11,7 @@ from sections.resource import analyze_resource
 from sections.configuration import analyze_configuration
 from pdf_utils import render_section_table
 
-openai.api_key = "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"  # Replace with your actual key or load from env
+openai.api_key = ""  # Replace with your actual key or load from env
 
 
 # PDF CLASS WITH LOGO & PAGE SETTINGS
